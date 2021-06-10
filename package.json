@@ -4,7 +4,7 @@
   "description": "Cilantro website",
   "main": "index.js",
   "scripts": {
-    "start: node index.html"
+    "start": "node index.html",
     "compile:sass": "node-sass sass/main.scss css/style.css -w"
   },
   "author": "Chase Thrower",
